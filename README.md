@@ -1,11 +1,24 @@
-# Apresentação 
+### 👋 Bem vindo ao meu Perfil
+- Estudando Back-End 
 
-👋🏻 Olá á todos me chamo Bruno 
+<div align="center">
+  <a href="https://github.com/Jean-Lukas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Filadelfo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Filadelfo&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Bruno-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Bruno-Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bruno-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Bruno-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+  
+  <img align="right" alt="Bruno-Pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/896630604899176479/896630879412174908/inspectocat.jpg?width=504&height=504">
+</div>
 
-👨🏻‍💻 Estudando Back-End 
-
-🚀 Rocketeseat
-
-💻 Sou novo na área! Estou aprendendo ainda a mexer no GitHub e claro a programação.
-
-👨🏻‍🚀 Bom é isso Seja bem Vindo ao meu GitHub!
+##
+  
+ <div> 
+  <a href="https://www.instagram.com/Bruno_Carvalho.Filadelfo96/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:Bruno.Filadelfo@Outlook.Com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=Outlook&logoColor=white" target="_blank"></a>
+</div>
