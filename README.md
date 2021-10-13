@@ -1,5 +1,8 @@
 ### 👋 Bem vindo ao meu Perfil
 - Estudando Back-End 
+- Passion for developing. ❤
+-  console.log(`>Fascinado por Tecnologia!`);
+
 
 <div align="center">
   <a href="https://github.com/Jean-Lukas">
