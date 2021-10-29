@@ -1,5 +1,5 @@
 ### 👋 Bem vindo ao meu Perfil
-- Estudando Back-End 
+- Estudando Front-End 
 - Passion for developing. ❤
 -  console.log(`>Fascinado por Tecnologia!`);
 
