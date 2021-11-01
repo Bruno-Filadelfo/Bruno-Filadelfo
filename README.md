@@ -1,7 +1,7 @@
 ### 👋 Bem vindo ao meu Perfil
 - Estudando Front-End 
 - Passion for developing. ❤
--   console.log(`> Fascinado por tecnologia!`);
+-   console.log( `> Fascinado por tecnologia!` );
 
 
 <div align="center">
