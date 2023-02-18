@@ -1,4 +1,4 @@
-@@ -4,7 +4,7 @@ Hi 👋 My name is Guilhermo
+👋 My name is Guilhermo
 Full Stack Software Developer
 -----------------------------
 
