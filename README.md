@@ -1,5 +1,4 @@
-### Hi there 👋
-My name is Bruno
+### Hi there 👋 My name is Bruno
 <!--
 **Bruno-Filadelfo/Bruno-Filadelfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
