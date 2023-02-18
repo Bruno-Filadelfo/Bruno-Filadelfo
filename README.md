@@ -9,7 +9,7 @@ I am also a student at [42 | Rio](https://42.rio/), a Software Engineering schoo
 
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [bruno.filadelfo@aluno.ifsp.edu.br](mailto:guilhermomasid@gmail.com)
-* 🚀  I am currently studying at Rocketseat http://rocketseat.com.br.com
+* 🚀  I am currently studying at Rocketseat Rocketseat.com.br.com
 * 🧠  I'm learning Advanced Javascript, Unit Tests and C/C++ programming languages
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favorite is Crossfit
