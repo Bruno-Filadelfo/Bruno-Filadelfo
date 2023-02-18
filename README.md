@@ -2,8 +2,7 @@ Hi 👋 My name is Bruno
 Desenvolvedor web
 -----------------------------
 
-I'm a 19 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
-I'm a 20 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+I'm a developer I love to code and figure out how to solve deep problems using cutting-edge technology. My main focus is front and back-end development, making applications that impact the lives of thousands of users.
 
 I am also a student at [11 | SP]
 
