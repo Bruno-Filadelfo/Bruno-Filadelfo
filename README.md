@@ -13,6 +13,7 @@ I am also a student at [11 | SP]
 * 🧠  I'm learning Advanced Javascript, Unit Tests and C/C++ programming languages
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favorite is Crossfit
+
 <a href="https://www.github.com/Bruno-Filadelfo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 ### Skills
