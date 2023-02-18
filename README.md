@@ -1,8 +1,7 @@
 ### Hi there 👋 My name is Bruno
 <!--
 **Bruno-Filadelfo/Bruno-Filadelfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Desenvolvedor web
+### Desenvolvedor web
 
 Here are some ideas to get you started:
 
