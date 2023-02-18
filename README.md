@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, My name is Bruno Desenvolvedor web</h1>
 <h3 align="center">I'm a developer who loves to code and figure out how to solve deep problems using cutting-edge technology. My main focus is the Fron-End part of interactivity and when ready to go straight to the Back-End making applications that impact the lives of thousands of users.</h3>
 
+- envelope You can contact me at [bruno.filadelfo@outlook.com](bruno.filadelfo@outlook.com)
+
+- 🚀 I am currently studying [rocketseat](rocketseat)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/brunofiladelffo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brunofiladelffo" height="30" width="40" /></a>
