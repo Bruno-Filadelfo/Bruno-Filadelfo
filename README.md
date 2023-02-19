@@ -6,6 +6,12 @@
 
 - ✉️ You can contact me at [Bruno.Filadelfo@Aluno.Ifsp.Edu.Br](Bruno.Filadelfo@Aluno.Ifsp.Edu.Br)
 
+- 🧠 I'm learning intermediate Javascript, unit tests and Typescript
+
+- 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
+
+- ⚡ I love sports and my favorite is Jiu-Jitsu
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/brunofiladelffo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brunofiladelffo" height="30" width="40" /></a>
