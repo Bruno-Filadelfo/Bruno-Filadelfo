@@ -58,7 +58,7 @@ src="https://img.shields.io/github/followers/Bruno-Filadelfo?logo=github&style=f
 <a href="http://www.github.com/Bruno-Filadelfo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Bruno-Filadelfo&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/5c484a79afe9b16f8f5356d329e81cb420a90ca98e8ed83e6cf42c839ca2a1f3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4272756e6f2d46696c6164656c666f267468656d653d6461726b" alt="Bruno GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Bruno-Filadelfo&amp;theme=dark" style="max-width: 100%;"></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/f6b859663e1cd25c0775e9577dbc2de74fe4807c66bb713b287f185d7ffe2b59/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4272756e6f2d46696c6164656c666f267468656d653d6461726b" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Filadelfo&amp;theme=dark" style="max-width: 100%;"></a>
