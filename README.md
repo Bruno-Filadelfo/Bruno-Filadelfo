@@ -12,7 +12,7 @@
 
 - ⚡ I love sports and my favorite is Jiu-Jitsu
 
-<h3 align="left">Skills</h3>
+<h3 align="left">Socials</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.com/invite/rocketseat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/rocketseat" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/bruno-filadelfo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/bruno-filadelfo" height="30" width="40" /></a>
