@@ -57,9 +57,7 @@ src="https://img.shields.io/github/followers/Bruno-Filadelfo?logo=github&style=f
 
 <a href="http://www.github.com/Bruno-Filadelfo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Bruno-Filadelfo&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Bruno-Filadelfo" align="left"><img src="https://github-readme-stats-Bruno-Filadelfo.vercel.app/api/top-langs/?username=Bruno-Filadelfo&layout=compact&title_color=3382ed&hide=css,objective-c,html&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Filadelfo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/Bruno-Filadelfo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
