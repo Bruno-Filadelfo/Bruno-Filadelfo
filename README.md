@@ -58,8 +58,12 @@ src="https://img.shields.io/github/followers/Bruno-Filadelfo?logo=github&style=f
 <a href="http://www.github.com/Bruno-Filadelfo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Bruno-Filadelfo&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Filadelfo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-Filadelfo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+    <div>
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Filadelfo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+    </div>
+    <div>
+        [![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-Filadelfo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+    </div>
 </div>
 ### Support Me
 
