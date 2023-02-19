@@ -8,8 +8,8 @@ I'm a 20 years old developer and hacking since I was 16. I love to code and figu
 
 I am also a student at [42 | Rio](https://42.rio/), a Software Engineering school that have [47 campus in 26 countries](https://www.42network.org/42-schools/).
 
-* 🌍  I'm based in Rio de Janeiro, Brazil
-* ✉️  You can contact me at [guilhermomasid@gmail.com](mailto:guilhermomasid@gmail.com)
+* 🌍  I'm based in São Paulo, Brazil
+* ✉️  You can contact me at [Brunno.Filadelffo@gmail.com](mailto:Brunno.Filadelffo@gmail.com)
 * 🚀  I'm currently working on [Result Sistemas](http://resultsistemas.com)
 * 🧠  I'm learning Advanced Javascript, Unit Tests and C/C++ programming languages
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
