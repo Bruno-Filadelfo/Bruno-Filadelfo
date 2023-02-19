@@ -2,9 +2,9 @@
 
 - 🌎 I'm based in São Paulo, Brazil 
 
-- ✉️ You can contact me at [Bruno.Filadelfo@Aluno.Ifsp.Edu.Br](Bruno.Filadelfo@Aluno.Ifsp.Edu.Br)
-
 - 🚀 I'm currently working on [Rocketseat](Rocketseat)
+
+- ✉️ You can contact me at [Bruno.Filadelfo@Aluno.Ifsp.Edu.Br](Bruno.Filadelfo@Aluno.Ifsp.Edu.Br)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
