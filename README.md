@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌎 I'm based in São Paulo, Brazil [São Paulo](São Paulo)
+- 🌎 I'm based in São Paulo, Brazil 
 
 - ✉️ You can contact me at [Bruno.Filadelfo@Aluno.Ifsp.Edu.Br](Bruno.Filadelfo@Aluno.Ifsp.Edu.Br)
 
