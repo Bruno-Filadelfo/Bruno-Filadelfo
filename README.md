@@ -62,3 +62,9 @@ src="https://img.shields.io/github/followers/Bruno-Filadelfo?logo=github&style=f
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/Bruno-Filadelfo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+
+<div>
+<a href="https://github.com/Bruno-Filadelfo
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula%22/%3E
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E
+</div>
