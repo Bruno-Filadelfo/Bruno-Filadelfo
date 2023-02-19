@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌎 I'm based in São Paulo, Brazil [São Paulo](São Paulo)
+- 🌎 I'm based in São Paulo, Brazil
 
 - 🧠 I'm learning intermediate Javascript, unit tests and Reactjs framework [Javascript, TypeScript](Javascript, TypeScript)
 
