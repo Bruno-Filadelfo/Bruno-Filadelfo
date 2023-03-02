@@ -10,7 +10,7 @@ I am also a student at [11 | SP](https://42.rio/), a Software Engineering school
 
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [Brunno.Filadelffo@gmail.com](mailto:Brunno.Filadelffo@gmail.com)
-* 🚀  I am currently a student at rocketseat
+* 🚀  I am currently a student at [rocketseat] 
 * 🧠  I'm learning Advanced Javascript, Unit Tests and C/C++ programming languages
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favorite is Crossfit
