@@ -6,7 +6,8 @@ Full Stack Software Developer
 
 I'm a 26 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
 
-estudande de automação industrial mais no foco de programação orientado a objetos ddd [11 | SP]
+industrial automation student more focused on object-oriented programming DDD [11 | SP]
+
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [Brunno.Filadelffo@gmail.com](mailto:Brunno.Filadelffo@gmail.com)
 * 🚀  I am currently a student at www.rocketseat.com.br
