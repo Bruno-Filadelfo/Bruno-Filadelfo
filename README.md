@@ -39,7 +39,7 @@ Hi 👋 My name is Bruno Filadelfo
     
  ### E-mail
  
- ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://bruno.filadelfo@aluno.ifsp.edu.br)
+ ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
  ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
  
  
