@@ -1,6 +1,6 @@
 Hi 👋 My name is Bruno Filadelfo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Filadelfo)](https://github.com/Bruno-Filadelfo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Filadelfo)]
 ![github](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
