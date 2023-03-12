@@ -1,3 +1,18 @@
+Hi 👋 My name is Bruno Filadelfo
+==========================
+
+Full Stack Software Developer
+-----------------------------
+
+I'm a 26 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+
+industrial automation student more focused on object-oriented programming DDD [11 | SP]
+
+* 🌍  I'm based in São Paulo, Brazil
+* ✉️  You can contact me at [Brunno.Filadelffo@gmail.com](mailto:Brunno.Filadelffo@gmail.com)
+* 🚀  I am currently a student at www.rocketseat.com.br
+* 🧠  I'm learning Advanced Javascript, Unit Tests and C/C++ programming languages
+* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favorite is Crossfit
 
 <a href="https://www.github.com/Bruno-Filadelfo" target="_blank" rel="noreferrer"><img
