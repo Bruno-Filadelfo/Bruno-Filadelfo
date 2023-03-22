@@ -1,6 +1,6 @@
 Hi 👋 My name is Bruno Filadelfo
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Filadelfo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Bruno-Filadelfo)
 
 ### Tecnologias que eu uso no meu dia
 
