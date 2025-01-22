@@ -1,8 +1,9 @@
 Hi 👋 My name is Bruno Filadelfo
 
  <a href="https://github.com/Bruno-Filadelfo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Filadelfo&layout=compact&la_count=7&theme=aura"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Filadelfo&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img width=400 src='https://github-readme-stats.vercel.app/api?username=Bruno-Filadelfo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=Bruno-Filadelfo&theme=vue-dark&hide_border=true' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Filadelfo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
  
 
